@@ -6,7 +6,7 @@ config.cosmosDbKey = process.env.CosmosDbKey;
 
 // ADD THIS PART TO YOUR CODE
 config.database = {
-    "id": "line-bot-isao"
+    "id": "hokkoriAI"
 };
 
 config.collection = {
